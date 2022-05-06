@@ -1,0 +1,6 @@
+name: InfoViewer
+version: '${project.version}'
+main: infoviewer.infoviewer.InfoViewer
+api-version: 1.18
+authors: [ Hiroyuki, Yuki ]
+description: a plugin that provide minecraft some info such as user's items and logs for website
